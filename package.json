@@ -1,0 +1,23 @@
+{
+  "name": "lab-06-http-and-rest",
+  "version": "1.0.0",
+  "description": "## Learning Objectives",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "--verbose --coverage",     
+    "json-server": "--watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/401-advanced-javascript-aeaston/lab-06-http-and-rest.git"
+  },
+  "author": "Adrienne Easton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/401-advanced-javascript-aeaston/lab-06-http-and-rest/issues"
+  },
+  "homepage": "https://github.com/401-advanced-javascript-aeaston/lab-06-http-and-rest#readme"
+}
