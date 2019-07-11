@@ -25,6 +25,8 @@ http delete :3000/categories/2
 #### Tests
 * To run test type 'npm test'.
 
+![diagram](https://docs.google.com/document/d/1Kar3s9Z-2OBCVbhH51xlj-trFGwsO0CRxtl2zqJED3o/edit?usp=sharing)
+
 
 
 
