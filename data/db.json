@@ -1,5 +1,19 @@
 {
-  "categories": [],
+  "categories": [
+    {
+      "id": 1,
+      "description": "super nice",
+      "display_name": "a thing",
+      "name": "philbert"
+    },
+    [
+      {
+        "description": "super good",
+        "display_name": "things",
+        "name": "bob"
+      }
+    ]
+  ],
   "products": [
     {
       "_id": 2,
